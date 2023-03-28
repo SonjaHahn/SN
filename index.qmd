@@ -196,8 +196,9 @@ aus den vergangenen Jahren,
 gerne als Blitzlicht!
 
 
-##  {background-color="#f0dec5"}
+##   {background-color="#f0dec5"}
 
 
 ![](InDiKo_danke.svg)
 
+# sonja.hahn@h-da.de
